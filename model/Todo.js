@@ -14,7 +14,7 @@ class Todo {
       const {id, task, status} = element
       return new Todo(id, task, status);
     })
-    return todos
+    return todos;
   }
 
   static show(){
@@ -27,8 +27,8 @@ class Todo {
     let id = todos[todos.length - 1].id + 1;
     let task = todo[0];    
     let temp = new Todo(id, task); // buat instance
-    todos.push(temp)
-    this.save(todos);
+    todos.push(temp);
+    this.save(todos)
   }
 
   static delete(todo){
