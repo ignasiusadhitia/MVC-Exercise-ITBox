@@ -1,0 +1,8 @@
+- Buat file index.js (tampilan pertama ketika user masuk ke aplikasi)
+- Buat file data.json
+- Buat folder model
+- Buat folder view
+- Buat folder controller
+- Buat file /controller/TodoController.js
+- Buat file /model/Todo.js
+- Buat file /view/TodoView.js

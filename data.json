@@ -1,0 +1,17 @@
+[
+   {
+      "id": 1,
+      "task": "Belajar menggambar",
+      "status": true
+   },
+   {
+      "id": 2,
+      "task": "Belajar oop",
+      "status": false
+   },
+   {
+      "id": 3,
+      "task": "Kerjakan tugas",
+      "status": false
+   }
+]
